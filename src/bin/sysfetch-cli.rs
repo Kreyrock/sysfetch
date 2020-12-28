@@ -2,6 +2,10 @@
 ///!
 ///! Standalone Command LIne (CLI) frontend for fetching a userland of an OS into a desired directory using sysfetch crate's functions
 
+// FIXME(Krey): Test
+// DNC(Krey): Thing
+// DNC-QA(Krey): Thing
+
 // FIXME-QA(Krey): Consider implementing SNAFU <https://github.com/shepmaster/snafu> for better errors
 // FIXME-BRAINSTORM(Krey): Consult with the torproject how to write software that is friendly to onion-services
 
